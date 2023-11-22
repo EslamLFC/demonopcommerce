@@ -1,6 +1,6 @@
 # demonopcommerce
 ## Graduation Project for AMIT learning.
-* Implement a BASE test automation framework using Selenium and Shaft for testing E-commerce Web GUI.
+* Implement a BASE test automation framework using Selenium for testing E-commerce Web GUI.
 * Implement modular design by Applying the Page Object Model design pattern (POM).
 # Technologies
 * JDK-20
